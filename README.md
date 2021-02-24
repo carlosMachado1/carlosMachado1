@@ -26,7 +26,7 @@ Sou um FullStack Developer :computer:
 
  :rocket:  &nbsp; Estou no bootcamp da **Rocketseat - NLW-4** 
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando React/Next.JS
- <br/> :blush: &nbsp; Posso te ajudar com CSS Grid Layout e Flexbox
+ <!--<br/> :blush: &nbsp; Posso te ajudar com CSS Grid Layout e Flexbox-->
  <br/> :computer: &nbsp; Minha stack: ReactJS, Typescript, Python, C++, 
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games LoL e seriados no Netflix
  <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-CarlosGabrielMachado-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlos-gabriel-silva-machado-09a6a7170/)](https://www.linkedin.com/in/carlos-gabriel-silva-machado-09a6a7170/) 
